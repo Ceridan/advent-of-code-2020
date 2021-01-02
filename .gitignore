@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.pytest_cache/
+
+# VSCode
+.vscode/
+
+# Idea
+.idea/
+
+# MacOS
+.DS_Store
